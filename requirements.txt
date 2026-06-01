@@ -4,3 +4,4 @@ psutil
 python-socketio
 flask-cors
 flask-sqlalchemy
+gunicorn
